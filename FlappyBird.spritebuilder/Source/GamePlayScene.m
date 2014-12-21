@@ -24,9 +24,10 @@
         // Add a new obstacle
         [self addObstacle];
         
-        // Then reset the timer
+        // Then reset the timer.
         timeSinceObstacle = 0.0f;
     }
+
 }
 
 // put new methods here
